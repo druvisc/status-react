@@ -111,6 +111,14 @@
    "wakuext_getPushNotificationsServers" {}
    "wakuext_enablePushNotificationsBlockMentions" {}
    "wakuext_disablePushNotificationsBlockMentions" {}
+   "wakuext_createCommunity" {}
+   "wakuext_createCommunityChat" {}
+   "wakuext_inviteUserToCommunity" {}
+   "wakuext_joinCommunity" {}
+   "wakuext_leaveCommunity" {}
+   "wakuext_communities" {}
+   "wakuext_importCommunity" {}
+   "wakuext_exportCommunity" {}
    "status_chats" {}
    "localnotifications_switchWalletNotifications" {}
    "localnotifications_notificationPreferences" {}
